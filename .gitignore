@@ -1,0 +1,12 @@
+# data files
+data/
+*.csv
+
+# Jupyter & Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
