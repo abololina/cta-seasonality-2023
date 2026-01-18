@@ -20,4 +20,4 @@ A compact analysis of Chicago CTA 'L' ridership seasonality in 2023 using daily 
 ## How to run
 ```bash
 pip install -r requirements.txt
-# open seasonality.ipynb in VSCode and run all cells
+# open cta-seasonality.ipynb in VSCode and run all cells
